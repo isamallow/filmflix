@@ -2,6 +2,7 @@
 // `ng build` replaces `environment.ts` with `environment.prod.ts`.
 // The list of file replacements can be found in `angular.json`.
 
+// a conexão com o firebase
 export const environment = {
   firebase: {
     projectId: 'filmflix-62223',
